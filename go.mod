@@ -1,4 +1,4 @@
-module github.com/h2non/imaginary
+module github.com/EndercodeLLC/cropsizeme
 
 go 1.12
 
